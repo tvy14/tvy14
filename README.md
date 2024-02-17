@@ -2,6 +2,8 @@
 🔭 I’m currently working on my Post-Graduate Degree
 - 🌱 I’m currently learning Wireless Communications
 - 👯 I’m looking to collaborate on Federated Learning
+- 🌆 Sunset Runner 🏃‍♂️
+- 🔺🔵
 
 
 <!-- Badged -->
@@ -27,7 +29,7 @@
 </p>
 
 
-### Stack Technologies
+### Tech Stack
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
