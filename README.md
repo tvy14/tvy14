@@ -3,6 +3,30 @@
 - 🌱 I’m currently learning Wireless Communications
 - 👯 I’m looking to collaborate on Federated Learning
 
+
+<!-- Badged -->
+<p align="center">
+	<!-- Visitor -->
+  <!--<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Ftvy14%2F"><img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftvy14%2F&countColor=%23263759" /></a>
+		<img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Ftvy14%2F&countColor=%23263759">
+	<a>-->
+	<!-- Twitter Stats -->
+	<a href="https://twitter.com/t105add4_13">
+		<img 
+			alt="followers" 
+			title="Follow me on Twitter" 
+			src="https://img.shields.io/twitter/follow/t105add4_13?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
+	</a>
+	<!-- Github Stats -->
+	<a href="https://github.com/tvy14">
+		<img 
+			alt="followers" 
+			title="Follow me on Github" 
+			src="https://img.shields.io/github/followers/tvy14?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/>
+	</a>
+</p>
+
+
 ### Technologies
 ![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
@@ -10,6 +34,34 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 
+
+
+
+<hr>
+
+<!-- Stats -->
+<h2 align="center">Stats</h2>
+<h3 align="center">Contribution & Performance</h3>
+<br> 
+<p align=center>
+  <div align=center>
+    <a href="https://github.com/tvy14/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=tvy14&theme=ayu-mirage&border=61dafb&hide_border=true" alt="" />
+    </a>
+    <a href="https://github.com/tvy14/github-readme-stats" title="Go to Source">
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=tvy14&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br><br><br><br><br><br><br><br><br>
+  <div align=center>
+    <a href="https://github.com/tvy14/github-readme-stats">
+      <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tvy14&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
+    </a>
+  </div>
+  <br>
+</p>
+
+<hr>
 
 <!--
 **tvy14/tvy14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
