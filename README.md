@@ -2,7 +2,8 @@
 🔭 I’m currently working on my Post-Graduate Degree
 - 🌱 I’m currently learning Wireless Communications
 - 👯 I’m looking to collaborate on Federated Learning
-- 🌆 Sunset Runner 🏃‍♂️
+- 🌆 Sunset Runner 🏃‍♂️...from reality....
+- No.. I am a Sunset Swimmer (now) 🏊🏊🏊🏊🏊🏊🏊🏊
 - 🔺🔵
 
 
