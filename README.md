@@ -2,9 +2,11 @@
 🔭 I'm currently working on Autonomous Agentic Systems for AI Research & Development
 - 🌱 I'm currently learning Multi-Agent Orchestration and LLM Engineering
 - 👯 I'm looking to collaborate on Agentic AI Frameworks and Federated Learning
-- 🌆 Sunset Runner 🏃‍♂️...from reality....
-- No.. I am a Sunset Swimmer (now) 🏊🏊🏊🏊🏊🏊🏊🏊
-- 🔺🔵
+- 🌆 (sometimes) Morning Runner 🏃‍♂️ Full-time Sunset Swimmer (now) 🏊🏊🏊🏊🏊🏊🏊🏊
+
+🔺🔵
+- _"You've got to get the fundamentals down, because otherwise the fancy stuff isn't going to work." - Prof. Randy Pausch_
+- _"We shape our tools, and thereafter our tools shape us." - Prof. John M. Culkin_
 
 
 <!-- Badged -->
