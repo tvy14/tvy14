@@ -9,14 +9,12 @@
 
 <!-- Badged -->
 <p align="center">
-	<!-- Twitter Stats -->
 	<a href="https://twitter.com/t105add4_13">
 		<img 
 			alt="followers" 
 			title="Follow me on Twitter" 
 			src="https://img.shields.io/twitter/follow/t105add4_13?color=55960c&labelColor=488207&label=Follow&logo=twitter&logoColor=white&style=for-the-badge"/>
 	</a>
-	<!-- Github Stats -->
 	<a href="https://github.com/tvy14">
 		<img 
 			alt="followers" 
@@ -29,6 +27,8 @@
 ### Languages
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS3&logoColor=264de4)
 ![Jupyter](https://img.shields.io/badge/-Jupyter-000?&logo=Jupyter)
@@ -43,21 +43,13 @@
 
 <hr>
 
-<!-- Stats -->
 <h2 align="center">Stats</h2>
-<h3 align="center">Contribution & Performance</h3>
-<br>
+
 <p align="center">
-  <a href="https://github.com/tvy14/github-status">
-    <img src="https://raw.githubusercontent.com/tvy14/github-status/main/generated/status.gif" alt="GitHub Status" width="45%"/>
-  </a>
-  <a href="https://github.com/tvy14/github-status">
-    <img src="https://raw.githubusercontent.com/tvy14/github-status/main/generated/languages.svg" alt="Top Languages" width="45%"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/tvy14/github-status/main/generated/status.gif" alt="GitHub Status" width="420"/>
 </p>
 
 <p align="center">
-  <a href="https://github.com/tvy14/github-readme-streak-stats" title="Go to Source">
-    <img width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=tvy14&theme=ayu-mirage&border=61dafb&hide_border=true" alt="" />
-  </a>
+  <img src="https://raw.githubusercontent.com/tvy14/github-status/main/generated/stats.svg" alt="GitHub Stats" width="400"/>
+  <img src="https://raw.githubusercontent.com/tvy14/github-status/main/generated/languages.svg" alt="Top Languages" width="400"/>
 </p>
