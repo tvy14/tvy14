@@ -46,10 +46,6 @@
 <h2 align="center">Stats</h2>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tvy14/github-status/main/generated/status.gif" alt="GitHub Status" width="420"/>
-</p>
-
-<p align="center">
   <img src="https://raw.githubusercontent.com/tvy14/github-status/main/generated/stats.svg" alt="GitHub Stats" width="400"/>
-  <img src="https://raw.githubusercontent.com/tvy14/github-status/main/generated/languages.svg" alt="Top Languages" width="400"/>
+  <!-- <img src="https://raw.githubusercontent.com/tvy14/github-status/main/generated/languages.svg" alt="Top Languages" width="400"/> -->
 </p>
